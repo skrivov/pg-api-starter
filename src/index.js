@@ -34,4 +34,6 @@ app.listen(process.env.PORT, () =>
     console.log(`API is runing on port ${process.env.PORT}!`),
  );
 
+ export default app;
+
  
